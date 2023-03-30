@@ -14,7 +14,7 @@ In this repository you can find the files generated in the **30 Day Vanilla JS C
 
 The aim of this project is to **solve 8 exercises using** the different **array methods**. 
 
-> **NOTE:** Direct link to the project by clicking on the following **[link](https://marocena26.github.io/JS30-challenges-array-cardio-1/)**.
+> **NOTE:** Direct link to the project by clicking on the following **[link](https://marocena26.github.io/JS30-challenges-array-cardio-2/)**.
 
 ## 👾 Description 
 
