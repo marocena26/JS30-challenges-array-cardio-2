@@ -21,7 +21,10 @@ The aim of this project is to **solve 8 exercises using** the different **array 
 **Sweat it out!**
 
 In this repository you will find a series of **exercises to solve** them **using** different **array methods**, being these:
-
+- **Array.prototype.some()**
+- **Array.prototype.every()**
+- **Array.prototype.find()**
+- **Array.prototype.findIndex()**
 
 ## 📝 Requirements
 
@@ -37,6 +40,10 @@ The following tools have been used when solving the project:
 - **CSS**
 - **GIT version control**
 - **JS**
+    - Array.prototype.some()
+    - Array.prototype.every()
+    - Array.prototype.find()
+    - Array.prototype.findIndex()
  
 
 ## 📖 What have I learned?
