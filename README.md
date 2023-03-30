@@ -40,10 +40,10 @@ The following tools have been used when solving the project:
 - **CSS**
 - **GIT version control**
 - **JS**
- - Array.prototype.some()
- - Array.prototype.every()
- - Array.prototype.find()
- - Array.prototype.findIndex()
+    - Array.prototype.some()
+    - Array.prototype.every()
+    - Array.prototype.find()
+    - Array.prototype.findIndex()
  
 
 ## 📖 What have I learned?
